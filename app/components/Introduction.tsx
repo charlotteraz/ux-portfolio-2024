@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 export default function Introduction() {
     return (
-      <div className="w-screen h-[calc(100vh-64px)] px-[10rem] flex flex-col justify-center items-start">
+      <div className="w-screen h-[calc(100vh-64px)] px-8 md:px-20 lg:px-36 flex flex-col justify-center items-start">
         <div className="text-[4rem] font-bold">Hey, I'm Charlotte!</div>
         <div>
           <span className="text-lg font-extralight">I'm a </span>
